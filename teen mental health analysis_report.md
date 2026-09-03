@@ -6,9 +6,9 @@ A Power BI analytics project exploring how social media usage patterns relate to
 
 ##  Overview
 
-This project analyzes survey data from **1,200 teenagers** to understand the relationship between social media usage (Instagram, TikTok, or both) and key mental health and lifestyle indicators — including stress, anxiety, depression, sleep, addiction, and social interaction levels.
+This project analyzes survey data from 1,200 teenagers to understand the relationship between social media usage (Instagram, TikTok, or both) and key mental health and lifestyle indicators including stress, anxiety, depression, sleep, addiction, and social interaction levels.
 
-The analysis is presented across **three interactive Power BI dashboards**, each focusing on a different angle of the data: an overview summary, platform-specific behavioral patterns, and mental health/lifestyle trends by age.
+The analysis is presented across three interactive Power BI dashboard, each focusing on a different angle of the data: an overview summary, platform-specific behavioral patterns, and mental health/lifestyle trends by age.
 
 ---
 
